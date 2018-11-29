@@ -1,3 +1,3 @@
-require('favorite')
-require('capybara/rspec')
-require('./app')
+# require('favorite')
+# require('capybara/rspec')
+# require('./app')
